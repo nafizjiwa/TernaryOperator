@@ -22,7 +22,7 @@ SAME AS:
 
       Return checkA === checkB ? checkA : checkB;
 
-> Return checkA === checkB ?            checkA : checkB;
+> Return checkA === checkB ?            checkA : checkB;<br>
 > Return Condition         ? if condition true : if condition false ;
 
       
