@@ -7,4 +7,7 @@ It is a simplified CONDITIONAL operator an alternative to an if...else statement
 | 1.| A condition followed by a question mark (?) |
 | 2.| An expression to execute if the condition is truthy followed by a colon (:) |
 | 3.| An expression to execute if the condition is falsy |
+<br>
+
+      1. Condition ? 2. execute if condition is truthy : 3. if condition is falsy ;
 
