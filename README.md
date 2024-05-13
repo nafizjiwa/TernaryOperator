@@ -20,6 +20,7 @@ EXAMPLE:
       }
 SAME AS:
 
+      Return checkA === checkB ? checkA : checkB;
       Return checkA === checkB ?            checkA : checkB;
       Return Condition         ? if condition true : if condition false ;
 
