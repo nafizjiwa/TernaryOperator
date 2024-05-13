@@ -12,7 +12,9 @@ The only JavaScript operator that takes three operands:
 |then an expression to execute if the condition is truthy followed by a colon (:) | 
 | finally the expression to execute if the condition is falsy |<br>
 <br>
-| header 1|
+| JavaScript operator that takes three operands|
 |---|
-| rc1 |
+| a condition followed by a question mark (?) |
+| then an expression to execute if the condition is truthy followed by a colon (:) |
+| finally the expression to execute if the condition is falsy |
 
