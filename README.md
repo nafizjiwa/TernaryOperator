@@ -1,6 +1,6 @@
 # TernaryOperator
 What is a Ternary Operator?
-It is a simplified CONDITIONAL operator an alternative to an if...else statement.
+It is a simplified CONDITIONAL operator anD a shorthand syntax for an if...else statement.
 <br>
 | | JavaScript operator that takes three operands|
 |---|---|
@@ -10,4 +10,17 @@ It is a simplified CONDITIONAL operator an alternative to an if...else statement
 <br>
 
       1. Condition ? 2. execute if condition is truthy : 3. if condition is falsy ;
+<br>    
+EXAMPLE:
+
+      if (checkA === checkB){
+            return checkA;
+      } else {
+            return checkB;
+      }
+SAME AS:
+
+      Return checkA === checkB ? checkA : checkB;
+
+      
 
